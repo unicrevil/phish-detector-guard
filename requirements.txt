@@ -1,0 +1,5 @@
+tldextract
+whois
+requests
+termcolor
+tqdm
